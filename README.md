@@ -3,7 +3,7 @@
 
 
 <img src="https://user-images.githubusercontent.com/67912493/107262822-c9f8fa80-6a1f-11eb-8e08-25bd941abbe1.png" width="380" height="380">
-<img src="https://user-images.githubusercontent.com/67912493/107262938-eb59e680-6a1f-11eb-80f3-bbc9f0f89fae.png" width="380" height="380">
+<img src="https://user-images.githubusercontent.com/67912493/107262938-eb59e680-6a1f-11eb-80f3-bbc9f0f89fae.png" width="180" height="180">
 
 
 # About the app:
